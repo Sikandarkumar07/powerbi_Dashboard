@@ -57,8 +57,8 @@ This Power BI Dashboard provides a comprehensive analysis of Motorola’s mobile
 
 
 # Repository structure data
-  Data: https://github.com/Sikandarkumar07/powerbi_Dashboard/blob/main/Mobile%20Sales%20Data.xlsx
-  Dashboard: https://github.com/Sikandarkumar07/powerbi_Dashboard/blob/main/powerbi%20dashboard.pbix
+  Data: https://github.com/Sikandarkumar07/powerbi_Dashboard/blob/main/Mobile%20Sales%20Data.xlsx<br/>
+  Dashboard: https://github.com/Sikandarkumar07/powerbi_Dashboard/blob/main/powerbi%20dashboard.pbix<br/>
   Image: <img width="1348" height="753" alt="mobile salse data" src="https://github.com/user-attachments/assets/e8f63d88-05ed-4fee-9d39-cd3a188ecf7d" />
 
 
