@@ -13,19 +13,20 @@ This Power BI Dashboard provides a comprehensive analysis of Motorola’s mobile
             Dynamic month selection for quick time-based analysis
 
      •	Sales Overview Metric:
-           Total Sales (769M), Total Quantity (19K), Total Transactions (4K), and Average Sale (40.11K)  
+              Total Sales (769M), Total Quantity (19K), Total Transactions (4K), and Average Sale (40.11K)  
      •	Geographical Insights :
-           Sales distribution by city locations with an interactive map
+              Sales distribution by city locations with an interactive map
      •	Customer Behaviour :
-           Customer ratings breakdown
+             Customer ratings breakdown
+           
      •	Payment method preference via a pie chart
 
      •	Brand & Model Performance:
-          Top-performing brands with total sales and quantities
-          Best-selling mobile models with sales figures
+              Top-performing brands with total sales and quantities
+              Best-selling mobile models with sales figures
      •	Trend Analysis:
-         Monthly sales trends for total quantity
-         Day-wise sales patterns
+              Monthly sales trends for total quantity
+              Day-wise sales patterns
 
 
 # 🔑 Key Insights
