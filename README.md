@@ -63,5 +63,5 @@ This Power BI Dashboard provides a comprehensive analysis of Motorola’s mobile
   Image: <img width="1348" height="753" alt="mobile salse data" src="https://github.com/user-attachments/assets/e8f63d88-05ed-4fee-9d39-cd3a188ecf7d" />
 
 
-#🤝 Feedback & Collaboration
+# 🤝 Feedback & Collaboration
          If you have any ideas or suggestions, feel free to share them. You can also improve this project   and send your changes. I'm happy to connect and work together!
